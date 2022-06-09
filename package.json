@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-complete-guide",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JassiFuentes/NODE-GUIDE-JS.git"
+  },
+  "author": "Jassira Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JassiFuentes/NODE-GUIDE-JS/issues"
+  },
+  "homepage": "https://github.com/JassiFuentes/NODE-GUIDE-JS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
